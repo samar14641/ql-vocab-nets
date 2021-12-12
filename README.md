@@ -1,5 +1,18 @@
 # Comparing Quantitative Linguistics of a Corpus with a Vocabulary Network
 
+Run the notebooks in the following order:
+
+1. preprocessing.ipynb
+
+2. quantitative_linguistics.ipynb
+
+3. network_builder.ipynb
+
+4. network_metrics.ipynb
+
+5. network_lm.ipynb
+
+
 ### Preliminary sources:
 
 * [Jules Verne on Project Gutenberg](https://www.gutenberg.org/ebooks/author/60)
